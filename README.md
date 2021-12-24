@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - I'm currently learn and work with data, especifically data engineer.
 <div align="left">
   <a href="https://github.com/afnscbrl">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=afnscbrl&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnscbrl&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnscbrl&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnscbrl&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="afns-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
