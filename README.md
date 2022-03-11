@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi guys, my name is Afonso Cabral.
 - I'm currently work on Backend projects.
 - I'm currently learning about everything in this field, try mastering golang, sql and nosql.
-- I'm in love with Golang.
+- I'm in love with JS.
 - How to reach me: <a href="https://linkedin.com/in/afnscbrl"> Linkedin </a> 
 <div align="center" margin=0 padding=0>
   <a href="https://github.com/afnscbrl">
