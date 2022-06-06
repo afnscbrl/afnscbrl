@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi guys, my name is Afonso Cabral.
-- I'm currently work on Backend projects.
+- I'm currently work on FullStack projects.
 - I'm currently learning about everything in this field, try mastering js, sql and nosql.
 - I'm in love with JS.
 - How to reach me: <a href="https://linkedin.com/in/afnscbrl"> Linkedin </a> 
